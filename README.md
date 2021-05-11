@@ -14,4 +14,4 @@ The first predict() exercise using test and training set gives us a 71.5% predic
 Next, we prune the tree to see if it will yield better results.
 The tree with 9 nodes results in lowest cross-validation error rate, with 50 cross-validation errors. 
 The 9-node-tree is then constructed which gives us a 77% prediction rate. 
-We plot then plot the 9-node-tree
+We then plot the 9-node-tree
